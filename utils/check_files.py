@@ -9,7 +9,7 @@ def get_code_list():
         for code in codes:
             tup = os.path.splitext(code)
             solution = tup[0].split('_')
-            if len(solution) >= 2 and len(solution[1]) == 1:
+            if len(solution) == 2 and len(solution[1]) == 1:
                 code_list[(dir, solution[1])] = './Code/' + dir + '/' + code
                 if dir in solver_list:
                     solver_list[dir].append(solution[1])
