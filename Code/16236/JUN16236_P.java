@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class JUN16236_P {
 	static int N, size = 2, ans = 0, ate = 0;
 	static int space[][];
 	static int shark[];
