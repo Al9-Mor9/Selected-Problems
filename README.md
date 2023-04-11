@@ -21,7 +21,7 @@
 ---
 
 ### <img src = "https://github.com/sulogc.png" width="50" height="50"> LIM SUHYEONG
-+ [3830 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)
++ [3830 교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/3830/3830_P.cpp)
 
 ---
 
