@@ -5,7 +5,7 @@
 ---
 
 ### <img src = "https://github.com/Haaarimmm.png" width="50" height="50"> KIM HARIM 
-+ [17471 게리맨더링](https://www.acmicpc.net/problem/17471)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17471/17471_P.java)
++ [17471 게리맨더링](https://www.acmicpc.net/problem/17471)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17471/JUN17471_P.java)
 
 
 ---
