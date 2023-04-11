@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 17471_P {
+public class JUN17471_P {
 	static int N, n;
 	static int[] population;
 	static int[] parent;
