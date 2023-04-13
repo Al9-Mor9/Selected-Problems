@@ -8,6 +8,10 @@
 + [17471 게리맨더링](https://www.acmicpc.net/problem/17471)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17471/JUN17471_P.java)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17471/17471_K.py)
 
 
++ [150368 프로그래머스 2023 KAKAO BLIND RECRUITMENT 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+
+
+
 ---
 
 ### <img src = "https://github.com/Frog-Slayer.png" width="50" height="50"> PARK YEONGSEO
