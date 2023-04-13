@@ -25,4 +25,4 @@ while queue:
              arr[n_x][n_y] = virus                              # 바이러스 전파
              queue.append([virus, cnt+1, n_x, n_y])
 
-print(arr[x-1][y-1])
+print(arr[X-1][Y-1])
