@@ -10,7 +10,7 @@
 
 + [150368 프로그래머스 2023 KAKAO BLIND RECRUITMENT 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150368/150368_L.py)
 
-+ [150370 프로그래머스 2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17471/150370_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17471/JUN17471_P.java)
++ [150370 프로그래머스 2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 ---
 
