@@ -38,4 +38,4 @@
 ### <img src = "https://github.com/wocjs.png" width="50" height="50"> HWANG JAECHEON
 + [16236 아기 상어](https://www.acmicpc.net/problem/16236)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/16236/16236_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/16236/JUN16236_P.java)
 + [14476 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14476/14476_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/14476/14476_H.py)
-+ [19236 청소년 상어](https://www.acmicpc.net/problem/19236)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/19236/19236_H.py)
++ [19236 청소년 상어](https://www.acmicpc.net/problem/19236)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/19236/19236_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/19236/19236_K.py)
