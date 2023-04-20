@@ -4,64 +4,51 @@ sys.stdin = open("input.txt", "r")
 # 제한 사항
 # 2 <= n <= 1,000
 # 1 <= roads <= 3000
-# traps <= 10
-sys.setrecursionlimit(int(1e6))
+# traps <= 10 
 
-answer = 0
+import heapq
+
+INF = 4e6
 def solution(n, start, end, roads, traps):
-    adj_list = [{} for _ in range(n + 1)]
-    trap = [0] * (n + 1)
-    for i in traps: trap[i] = 1
-    visit = [0] * (n + 1)
+    dij = [[INF] * (1 << 10) for _ in range(n + 1)]
+    trap_map = {v : i for i, v in enumerate(traps)}
+    graph = [[] for _ in range(n + 1)]
+    ans = INF
 
-    for a, b, v in roads:
-        if b not in adj_list[a]:
-            adj_list[a][b] = v
-        else:
-            adj_list[a][b] = min(adj_list[a][b], v)
-    
-    for node in range(n + 1):
-        for key in adj_list[node].keys():
-            if node not in adj_list[key]:
-                adj_list[key][node] = -adj_list[node][key]
-
-    global answer
-    answer = 3e6
-
-    def dfs(cur, val):
-        global answer
-        if cur == end:
-            answer = min(answer, val)
-            return
-        if val > answer: return 
-
-        if trap[cur]:
-            for key in adj_list[cur].keys():
-                if adj_list[key][cur] > 0:
-                    adj_list[cur][key], adj_list[key][cur] = adj_list[key][cur], adj_list[cur][key]
-                else:
-                    adj_list[cur][key] *= -1
-                    adj_list[key][cur] *= -1
-                    
-        for next, v in adj_list[cur].items():
-            if v > 0 and visit[next] < 2:
-                visit[next] += 1
-                dfs(next, val + v)
-                visit[next] -= 1
+    for cur, next, cost in roads:
+        graph[cur].append([next, cost, 0])
+        graph[next].append([cur, cost, 1])
         
-        if trap[cur]:
-            for key in adj_list[cur].keys():
-                if adj_list[key][cur] > 0:
-                    adj_list[cur][key], adj_list[key][cur] = adj_list[key][cur], adj_list[cur][key]
-                else:
-                    adj_list[cur][key] *= -1
-                    adj_list[key][cur] *= -1
-    
-    dfs(start, 0)
-    return answer
+    hq = []
+    heapq.heappush(hq, [0, start, 0])
+    dij[start][0] = 0
+
+    while hq:
+        val, cur, state = heapq.heappop(hq)
+        if cur == end:
+            ans = min(ans, val)
+            continue
+
+        if val > dij[cur][state]: continue
+
+        for next, cost, flag in graph[cur]:
+            # cur와 next의 트랩이 on 되어있는지 확인, 방향까지 고려해서 가능 여부 반환
+            cur_on = state & (1 << trap_map[cur]) > 0 if cur in traps else 0
+            next_on = state & (1 << trap_map[next]) > 0 if next in traps else 0
+            if (cur_on ^ next_on) != flag: continue
+
+            # 상태 변환, 이동 거리 추가.
+            next_state = state ^ (1 << trap_map[next]) if next in traps else state
+            next_val = val + cost
+
+            # [장소, 트랩의 상태] 있던 값보다 작을 때만 갱신
+            if next_val >= dij[next][next_state]: continue
+            dij[next][next_state] = next_val
+            heapq.heappush(hq, [next_val, next, next_state])
+
+    return ans
 
 
 print(solution(3, 1, 3, [[1, 2, 2], [3, 2, 3]], [2]))    # 5
 print(solution(4, 1, 4, [[1, 2, 1], [3, 2, 1], [2, 4, 1]], [2, 3])) # 4
 
-    
