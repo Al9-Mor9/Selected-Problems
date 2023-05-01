@@ -45,3 +45,4 @@
 + [14476 최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14476/14476_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/14476/14476_H.py)
 + [19236 청소년 상어](https://www.acmicpc.net/problem/19236)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/19236/19236_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/19236/19236_K.py)
 + [1806 부분 합](https://www.acmicpc.net/problem/1806)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1806/1806_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1806/1806_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1806/1806_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1806/1806_L.py)
++ [1854 K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
