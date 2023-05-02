@@ -15,7 +15,7 @@
 
 ### <img src = "https://github.com/Frog-Slayer.png" width="50" height="50"> PARK YEONGSEO
 + [1693 트리 색칠하기](https://www.acmicpc.net/problem/1693)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1693/1693_P.cpp)
-+ [구간 합 구하기 2](https://www.acmicpc.net/problem/10999)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10999/10999_P.cpp)
++ [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10999/10999_P.cpp)
 ---
 
 ### <img src = "https://github.com/suchshin.png" width="50" height="50"> SHIN SEOKCHUL
