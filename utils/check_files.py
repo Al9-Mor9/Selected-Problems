@@ -18,7 +18,7 @@ def get_code_list():
                     solver_list[dir].append(solution[1])
 
     return code_list, solver_list
-  
+
 
 def update_readme(newReadme, profile):
     code_list, solver_list = get_code_list()

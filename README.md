@@ -6,13 +6,10 @@
 
 ### <img src = "https://github.com/Haaarimmm.png" width="50" height="50"> KIM HARIM 
 + [17471 게리맨더링](https://www.acmicpc.net/problem/17471)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/17471/JUN17471_P.java)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/17471/17471_K.py)
-
-
 + [150368 프로그래머스 2023 KAKAO BLIND RECRUITMENT 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150368/150368_L.py)
-
 + [150370 프로그래머스 2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150370/150370_K.py)
-
 + [150369 프로그래머스 2023 KAKAO BLIND RECRUITMENT 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150369/150369_1_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150369/150369_L.py)
++ [150367 프로그래머스 2023 KAKAO BLIND RECRUITMENT 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
 
 ---
 
