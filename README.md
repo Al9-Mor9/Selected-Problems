@@ -10,7 +10,7 @@
 + [150370 프로그래머스 2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150370/150370_K.py)
 + [150369 프로그래머스 2023 KAKAO BLIND RECRUITMENT 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150369/150369_1_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150369/150369_L.py)
 + [150367 프로그래머스 2023 KAKAO BLIND RECRUITMENT 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150367/150367_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150367/150367_L.py)
-+ [150367 프로그래머스 2023 KAKAO BLIND RECRUITMENT 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
++ [150367 프로그래머스 2023 KAKAO BLIND RECRUITMENT 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150367/150367_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150367/150367_L.py)
 
 ---
 
