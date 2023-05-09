@@ -1,5 +1,5 @@
 import sys
-# sys.stdin = open('input.txt')
+sys.stdin = open('input.txt')
 input = sys.stdin.readline
 
 # 월요일 12시... 매운 떡볶이 맛있겠다.
