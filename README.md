@@ -38,7 +38,7 @@
 
 + [19845 넴모넴모 2020](https://www.acmicpc.net/problem/19845)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/19845/19845_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/19845/19845_L.py)
 
-+ [1507 궁금한 민호](https://www.acmicpc.net/problem/1507)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1507/1507_L.py)
++ [1507 궁금한 민호](https://www.acmicpc.net/problem/1507)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1507/1507_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1507/1507_K.py)
 
 ---
 
