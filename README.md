@@ -28,6 +28,8 @@
 
 + [18405 경쟁적 전염](https://www.acmicpc.net/problem/18405)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/18405/18405_L.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/18405/18405_S.py)
 
++ [softeer405 복잡한 조립 라인](https://softeer.ai/practice/info.do?idx=1&eid=405)
+
 ---
 
 ### <img src = "https://github.com/sulogc.png" width="50" height="50"> LIM SUHYEONG
