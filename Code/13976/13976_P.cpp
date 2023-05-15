@@ -1,3 +1,19 @@
+/*
+a_n = 3(a_{n-2} + sum_{i=0}^{n-4}(a_i) * 2 + 2
+a_{n-2} = 3(a_{n-4} + sum_{i=0}^{n-6}(a_i) * 2 + 2
+
+이 둘을 빼면
+a_n - a_{n-2} = 3(a_{n-2}-a_{n-4}) + 2*a_{n-4}
+
+정리하면
+a_n = 4_a_{n-2} - a_{n-4}
+
+따라서 다음과 같이 쓸 수 있음 (행렬곱임)
+(a_n	)  = 	(4	-1) (a_{n-2})
+(a_{n-2})	(1	0 ) (a_{n-4})
+
+일반식을 구해서 풀면 됨
+*/
 #include <iostream>
 using namespace std;
 #define ll long long
@@ -27,6 +43,7 @@ pair<pll, pll> mat_pow(ll n){
 	return ret;
 }
 
+//mat^(2^i)를 미리 구해놓기
 void precompute(){
 	precomputed[0] = {{4, -1}, {1, 0}};
 	for (int i = 1; i < 64; i++) {
