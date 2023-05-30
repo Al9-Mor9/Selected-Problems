@@ -47,7 +47,7 @@
 
 + [13976 타일 채우기2](https://www.acmicpc.net/problem/13976)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/13976/13976_P.cpp)
 
-+ [10265 MT](https://www.acmicpc.net/problem/10265)
++ [10265 MT](https://www.acmicpc.net/problem/10265)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/10265/10265_L.py)
 
 
 ---
