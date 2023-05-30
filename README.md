@@ -13,7 +13,7 @@
 + [150366 프로그래머스 2023 KAKAO BLIND RECRUITMENT 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150366/150366_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150366/150366_L.py)
 + [150365 프로그래머스 2023 KAKAO BLIND RECRUITMENT 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/150365/150365_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150365/150365_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/150365/150365_H.py)
 + [150364 프로그래머스 2023 KAKAO BLIND RECRUITMENT 1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/150364/150364_K.py)
-+ [118666 프로그래머스 2022 KAKAO TECH INTERNSHIP 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/118666/118666_K.py)
++ [118666 프로그래머스 2022 KAKAO TECH INTERNSHIP 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/118666/118666_K.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/118666/118666_P.cpp)
 ---
 
 ### <img src = "https://github.com/Frog-Slayer.png" width="50" height="50"> PARK YEONGSEO
