@@ -31,7 +31,7 @@
 
 + [405_softeer 복잡한 조립 라인](https://softeer.ai/practice/info.do?idx=1&eid=405)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/405_softeer/405_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/405_softeer/405_K.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/405_softeer/405_S.py)
 
-+ [2467 용액](https://www.acmicpc.net/problem/2467)
++ [2467 용액](https://www.acmicpc.net/problem/2467)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/2467/2467_S.py)
 ---
 
 ### <img src = "https://github.com/sulogc.png" width="50" height="50"> LIM SUHYEONG
