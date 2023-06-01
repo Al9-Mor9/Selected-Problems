@@ -62,3 +62,4 @@
 + [1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1937/1937_H.py)
 + [2133 타일 채우기](https://www.acmicpc.net/problem/2133)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2133/2133_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2133/2133_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2133/2133_K.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/2133/2133_S.py)
 + [1577 도로의 개수](https://www.acmicpc.net/problem/1577)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/1577/1577_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1577/1577_K.py)
++ [2252 줄 세우기](https://www.acmicpc.net/problem/2252)
