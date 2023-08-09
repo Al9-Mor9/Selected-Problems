@@ -27,7 +27,7 @@
 ### <img src = "https://github.com/suchshin.png" width="50" height="50"> SHIN SEOKCHUL
 + [16234 인구이동](https://www.acmicpc.net/problem/16234)[<img src = "https://github.com/suchshin.png" width="25" height="25">](Code/16234/16234_S.py)
 
-+ [18405 경쟁적 전염](https://www.acmicpc.net/problem/18405)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/18405/18405_L.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/18405/18405_S.py)
++ [18405 경쟁적 전염](https://www.acmicpc.net/problem/18405)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/18405/18405_L.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/18405/18405_S.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/18405/18405_H.py)
 
 + [405_softeer 복잡한 조립 라인](https://softeer.ai/practice/info.do?idx=1&eid=405)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/405_softeer/405_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/405_softeer/405_K.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/405_softeer/405_S.py)
 
